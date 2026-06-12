@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f5f5f5;
+}
+
+.app {
+  padding: 20px;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  background: white;
+  padding: 15px 20px;
+  border-radius: 10px;
+
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+.wallet-info {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.card {
+  background: #f3f3f3;
+  padding: 10px 15px;
+  border-radius: 8px;
+}
+
+.connected-btn {
+  background: green;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 8px;
+  font-weight: bold;
+}
+
+.connect-btn {
+  background: #007bff;
+  color: white;
+  border: none;
+  padding: 12px 20px;
+  border-radius: 8px;
+  cursor: pointer;
+}
