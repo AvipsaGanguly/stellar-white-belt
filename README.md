@@ -1,51 +1,92 @@
 # Stellar White Belt Project
 
-## Description
+## Live Demo
+https://stellar-white-belt-nu.vercel.app/
 
-A Stellar Testnet dApp built using React and Freighter Wallet.
+## GitHub Repository
+https://github.com/AvipsaGanguly/stellar-white-belt
 
-Features:
-- Wallet Connect
-- Wallet Disconnect
-- Balance Display
+## Features
+
+- Connect Freighter Wallet
+- Display Stellar Testnet Account Balance
 - Send Testnet XLM
-- Transaction Status
-- Transaction Hash Display
+- Freighter Transaction Signing
+- Transaction Success Feedback
+- Transaction History Panel
+- Transaction Explorer Link
+- Responsive Premium UI
 
-## Setup Instructions
-
-Clone repository:
-
-```bash
-git clone https://github.com/AvipsaGanguly/stellar-white-belt.git
-```
-
-Install dependencies:
-
-```bash
-npm install
-```
-
-Run project:
-
-```bash
-npm start
-```
+---
 
 ## Screenshots
 
-### Wallet Connected
+### 1. Landing Page
 
-![alt text](image-2.png)
+Shows the premium landing page before wallet connection.
 
-### Balance Display
+![Landing Page](screenshots/landing-page.png)
 
-![alt text](image-1.png)
+---
 
-### Successful Transaction
+### 2. Wallet Connection Modal
 
-![alt text](image-4.png)
+Freighter wallet selection popup.
 
-### Transaction Hash
+![Wallet Modal](screenshots/wallet-modal.png)
 
-![alt text](image-3.png)
+---
+
+### 3. Connected Dashboard
+
+Wallet connected successfully with balance display and activity panel.
+
+![Connected Dashboard](screenshots/dashboard.png)
+
+---
+
+### 4. Transaction Confirmation
+
+Freighter transaction approval popup.
+
+![Transaction Confirmation](screenshots/transaction-confirmation.png)
+
+---
+
+### 5. Transaction Processing
+
+Transaction submission in progress.
+
+![Processing](screenshots/processing.png)
+
+---
+
+### 6. Successful Transaction
+
+Successful transaction notification with Stellar Expert receipt link.
+
+![Success](screenshots/success.png)
+
+---
+
+### 7. Transaction Hash Verification
+
+Transaction verified on Stellar Expert Testnet Explorer.
+
+![Explorer](screenshots/explorer.png)
+
+---
+
+## Tech Stack
+
+- React.js
+- Stellar SDK
+- Freighter Wallet API
+- Stellar Testnet
+- Vercel Deployment
+
+---
+
+## Author
+
+Avipsa Ganguly
