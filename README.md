@@ -25,7 +25,7 @@ https://github.com/AvipsaGanguly/stellar-white-belt
 
 Shows the premium landing page before wallet connection.
 
-![Landing Page](screenshots/landing-page.png)
+c:\Users\HP\OneDrive\Pictures\Screenshots 1\Screenshot (507).png
 
 ---
 
@@ -33,7 +33,7 @@ Shows the premium landing page before wallet connection.
 
 Freighter wallet selection popup.
 
-![Wallet Modal](screenshots/wallet-modal.png)
+c:\Users\HP\OneDrive\Pictures\Screenshots 1\Screenshot (508).png
 
 ---
 
@@ -41,7 +41,7 @@ Freighter wallet selection popup.
 
 Wallet connected successfully with balance display and activity panel.
 
-![Connected Dashboard](screenshots/dashboard.png)
+c:\Users\HP\OneDrive\Pictures\Screenshots 1\Screenshot (509).png
 
 ---
 
@@ -49,7 +49,7 @@ Wallet connected successfully with balance display and activity panel.
 
 Freighter transaction approval popup.
 
-![Transaction Confirmation](screenshots/transaction-confirmation.png)
+c:\Users\HP\OneDrive\Pictures\Screenshots 1\Screenshot (511).png
 
 ---
 
@@ -57,7 +57,7 @@ Freighter transaction approval popup.
 
 Transaction submission in progress.
 
-![Processing](screenshots/processing.png)
+c:\Users\HP\OneDrive\Pictures\Screenshots 1\Screenshot (512).png
 
 ---
 
@@ -65,7 +65,7 @@ Transaction submission in progress.
 
 Successful transaction notification with Stellar Expert receipt link.
 
-![Success](screenshots/success.png)
+c:\Users\HP\OneDrive\Pictures\Screenshots 1\Screenshot (513).png
 
 ---
 
@@ -73,7 +73,7 @@ Successful transaction notification with Stellar Expert receipt link.
 
 Transaction verified on Stellar Expert Testnet Explorer.
 
-![Explorer](screenshots/explorer.png)
+c:\Users\HP\OneDrive\Pictures\Screenshots 1\Screenshot (514).png
 
 ---
 
