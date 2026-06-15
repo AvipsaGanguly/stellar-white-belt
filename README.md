@@ -25,15 +25,15 @@ https://github.com/AvipsaGanguly/stellar-white-belt
 
 Shows the premium landing page before wallet connection.
 
-c:\Users\HP\OneDrive\Pictures\Screenshots 1\Screenshot (507).png
-
+![Landing Page](c![alt text](image-7.png))
+ng
 ---
 
 ### 2. Wallet Connection Modal
 
 Freighter wallet selection popup.
 
-c:\Users\HP\OneDrive\Pictures\Screenshots 1\Screenshot (508).png
+![Wallet Modal](![alt text](image-8.png))
 
 ---
 
@@ -41,7 +41,7 @@ c:\Users\HP\OneDrive\Pictures\Screenshots 1\Screenshot (508).png
 
 Wallet connected successfully with balance display and activity panel.
 
-c:\Users\HP\OneDrive\Pictures\Screenshots 1\Screenshot (509).png
+![Connected Dashboard](![alt text](image-9.png))
 
 ---
 
@@ -49,7 +49,7 @@ c:\Users\HP\OneDrive\Pictures\Screenshots 1\Screenshot (509).png
 
 Freighter transaction approval popup.
 
-c:\Users\HP\OneDrive\Pictures\Screenshots 1\Screenshot (511).png
+![Transaction Confirmation](![alt text](image-10.png))
 
 ---
 
@@ -57,7 +57,7 @@ c:\Users\HP\OneDrive\Pictures\Screenshots 1\Screenshot (511).png
 
 Transaction submission in progress.
 
-c:\Users\HP\OneDrive\Pictures\Screenshots 1\Screenshot (512).png
+![Processing](![alt text](image-11.png))
 
 ---
 
@@ -65,7 +65,7 @@ c:\Users\HP\OneDrive\Pictures\Screenshots 1\Screenshot (512).png
 
 Successful transaction notification with Stellar Expert receipt link.
 
-c:\Users\HP\OneDrive\Pictures\Screenshots 1\Screenshot (513).png
+![Success](![alt text](image-12.png))
 
 ---
 
@@ -73,7 +73,7 @@ c:\Users\HP\OneDrive\Pictures\Screenshots 1\Screenshot (513).png
 
 Transaction verified on Stellar Expert Testnet Explorer.
 
-c:\Users\HP\OneDrive\Pictures\Screenshots 1\Screenshot (514).png
+![Explorer](![alt text](image-13.png))
 
 ---
 
