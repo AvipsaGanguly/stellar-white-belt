@@ -25,15 +25,15 @@ https://github.com/AvipsaGanguly/stellar-white-belt
 
 Shows the premium landing page before wallet connection.
 
-![Landing Page](c![alt text](image-7.png))
-ng
+(![alt text](image-7.png))
+
 ---
 
 ### 2. Wallet Connection Modal
 
 Freighter wallet selection popup.
 
-![Wallet Modal](![alt text](image-8.png))
+(![alt text](image-8.png))
 
 ---
 
@@ -41,7 +41,7 @@ Freighter wallet selection popup.
 
 Wallet connected successfully with balance display and activity panel.
 
-![Connected Dashboard](![alt text](image-9.png))
+(![alt text](image-9.png))
 
 ---
 
@@ -49,7 +49,7 @@ Wallet connected successfully with balance display and activity panel.
 
 Freighter transaction approval popup.
 
-![Transaction Confirmation](![alt text](image-10.png))
+(![alt text](image-10.png))
 
 ---
 
@@ -57,7 +57,7 @@ Freighter transaction approval popup.
 
 Transaction submission in progress.
 
-![Processing](![alt text](image-11.png))
+(![alt text](image-11.png))
 
 ---
 
@@ -65,7 +65,7 @@ Transaction submission in progress.
 
 Successful transaction notification with Stellar Expert receipt link.
 
-![Success](![alt text](image-12.png))
+(![alt text](image-12.png))
 
 ---
 
@@ -73,7 +73,7 @@ Successful transaction notification with Stellar Expert receipt link.
 
 Transaction verified on Stellar Expert Testnet Explorer.
 
-![Explorer](![alt text](image-13.png))
+(![alt text](image-13.png))
 
 ---
 
