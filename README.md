@@ -36,16 +36,16 @@ npm start
 
 ### Wallet Connected
 
-(Add Screenshot Here)
+![alt text](image-2.png)
 
 ### Balance Display
 
-(Add Screenshot Here)
+![alt text](image-1.png)
 
 ### Successful Transaction
 
-(Add Screenshot Here)
+![alt text](image-4.png)
 
 ### Transaction Hash
 
-(Add Screenshot Here)
+![alt text](image-3.png)
